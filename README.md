@@ -4,17 +4,11 @@ Challenge / Project from Fintech Bootcamp for Blockchain Week
 ### About:
 This is a a Streamlit Web App to demonstrate how you can create your own "Blockchain" 
 
-### Python Prerequisites:
-```shell
-pip install pandas
-pip install streamlit
-pip install hashlib
-```
 ### How to Run:
 
 
 ```shell
-https://github.com/salmankhaliq22/18-PyChain-Ledger.git
+git clone https://github.com/salmankhaliq22/18-PyChain-Ledger.git
 cd 18-PyChain-Ledger
 streamlit run pychain.py
 ```
