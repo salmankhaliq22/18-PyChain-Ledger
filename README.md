@@ -14,8 +14,8 @@ pip install hashlib
 
 
 ```shell
-git clone git@github.com:nomadic-me/PyChain-Ledger.git
-cd PyChain-Ledger
+https://github.com/salmankhaliq22/18-PyChain-Ledger.git
+cd 18-PyChain-Ledger
 streamlit run pychain.py
 ```
 
